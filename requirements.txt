@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+huggingface-hub
+numpy
+pandas
+gradio
+groq
+scikit-learn
+torch
+transformers
