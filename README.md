@@ -1,4 +1,4 @@
-# 🎬 AI Movie Recommendation System
+# AI Movie Recommendation System
 
 A powerful AI-driven movie recommendation system built with **FAISS vector search**, **Sentence Transformers**, and **Groq LLaMA 3.3** — featuring a clean Gradio web interface with three intelligent tabs.
 
@@ -210,11 +210,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+MIT License.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/) for Sentence Transformers
 - [Meta AI](https://ai.meta.com/) for LLaMA 3.3
@@ -223,4 +223,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<p align="center">Made with ❤️ using Python & AI</p>
+<p align="center">Developed by M. Kamil Toor</p>
